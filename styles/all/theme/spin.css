@@ -1,0 +1,7 @@
+.preload {
+        background : url("ajax-loader.gif") no-repeat 50% 50%;
+      }
+.model-viewer{ cursor: url(""), e-resize; }
+.model-viewer{ width: 280px; height: 280px; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; background: 0 0 no-repeat; }
+.model-viewer{ background: #3b1c11 url("model-viewer.jpg") 0 0 no-repeat; margin: 0 auto; position: relative; border: 2px solid #3a1c10; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; -moz-box-shadow: #241209 0 0 10px; -webkit-box-shadow: #241209 0 0 10px; box-shadow: #241209 0 0 10px; }
+.model-viewer:hover{ border: 2px solid #102e3a; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; -moz-box-shadow: #102e3a 0 0 10px; -webkit-box-shadow: #102e3a 0 0 10px; box-shadow: #102e3a 0 0 10px; }

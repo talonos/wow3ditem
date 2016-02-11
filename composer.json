@@ -1,0 +1,28 @@
+{
+    "name": "talonos/wow3ditem",
+    "type": "phpbb-extension",
+    "description": "This Extension will add a world of warcraft 3d item BBCode to your forum",
+    "homepage": "http://pretereo-stormrage.co.uk",
+    "version": "0.1.0.RC1",
+    "time": "2016-01-24 19:44:39",
+    "license": "GPL-2.0",
+    "authors": [{
+        "name": "Talonos",
+        "homepage": "http://pretereo-stormrage.co.uk",
+        "role": "Lead Developer"
+    }],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "extra": {
+        "display-name": "wow 3d item bbcode",
+        "soft-require": {
+            "phpbb/phpbb": ">=3.1.5,<3.2.*@dev"
+        },
+        "version-check": {
+            "host": "www.pretereo-stormrage.co.uk",
+            "directory": "/versions",
+            "filename": "wow3ditem_version_check"
+        }
+    }
+}
