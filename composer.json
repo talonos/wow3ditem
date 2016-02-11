@@ -3,7 +3,7 @@
     "type": "phpbb-extension",
     "description": "This Extension will add a world of warcraft 3d item BBCode to your forum",
     "homepage": "http://pretereo-stormrage.co.uk",
-    "version": "0.1.0.RC1",
+    "version": "0.1.1.RC1",
     "time": "2016-01-24 19:44:39",
     "license": "GPL-2.0",
     "authors": [{
